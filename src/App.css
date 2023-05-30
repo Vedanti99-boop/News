@@ -1,0 +1,6 @@
+.body{
+    height: 100vh; /* Set the desired height for the container */
+    background-color: #0f77b386; /* Replace with your desired background color */
+    overflow-y: auto; /* Add scrollbars if the content exceeds the container height */
+  }
+  
